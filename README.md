@@ -1,13 +1,14 @@
 ### Hi there 👋
+
+<!--
 - I am Jingwen Wu (吴静雯), a PhD student in Political Science at the University of Kentucky. 
 - My current research focuses on the relationship of modern communication technology and political outcomes, environmental policy, and China foreign policy. 
 - I received my M.P.A. from Morehead State University and my B.A. from Central University for Nationalities in China.
+-->
 
 <!--
 **jwu12351/jwu12351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
