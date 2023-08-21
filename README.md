@@ -1,5 +1,4 @@
 ### Hi there 👋
-- My name is Jingwen Wu, and I am a Ph.D. student in Political Science at the University of Kentucky. 
 - My current research focuses on the relationship of modern communication technology and political outcomes, environmental policy, and China's foreign policy. 
 - I received my M.P.A. from Morehead State University and my B.A. from Central University for Nationalities in China.
 
