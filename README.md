@@ -1,6 +1,6 @@
 ### Hi there 👋
-- My current research focuses on the relationship of modern communication technology and political outcomes, environmental policy, and China's foreign policy. 
-- I received my M.P.A. from Morehead State University and my B.A. from Central University for Nationalities in China.
+
+- My name is Jingwen Wu, and I am a Ph.D. student in Political Science at the University of Kentucky. My current research focuses on the relationship of modern communication technology and political outcomes, environmental policy, and China's foreign policy. I received my M.P.A. from Morehead State University and my B.A. from Central University for Nationalities in China.
 
 <!-- ### 今年汇总 ✨ -->
 <!-- <img align="" height="135px" src="https://github-readme-stats.vercel.app/api?username=jwu12351&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /> -->
