@@ -7,4 +7,4 @@ My name is Jingwen Wu, and I am a Ph.D. student at the University of Kentucky st
 
 **How to Reach Me**: You can contact me by dropping me an email at jingwen.wu@uky.edu
 
-**Outside Academia**: While I am not doing research, I enjoy exploring running and playing piano.
+**Outside Academia**: While I am not doing research, I enjoy running and playing the piano.
