@@ -1,18 +1,13 @@
+
 ### Hi there 👋
 
-- My name is Jingwen Wu, and I am a Ph.D. student in Political Science at the University of Kentucky. My current research focuses on the relationship of modern communication technology and political outcomes, environmental policy, and China's foreign policy. I received my M.P.A. from Morehead State University and my B.A. from Central University for Nationalities in China.
+My name is Jingwen Wu, and I am a Ph.D. student at the University of Kentucky studying Political Science. In my research, I examine the relationship between modern communication technology and political outcomes, environmental policy, and foreign policy in China. I earned my M.P.A. degree from Morehead State University and my B.A. from Central University for Nationalities.
 
+🌱 **Currently Learning**
+I am studying data analysis, Python, and policy modeling as part of my professional development.
 
+📫 **How to Reach Me**
+You can contact me by dropping me an email at jingwen.wu@uky.edu
 
-<!--
-**jwu12351/jwu12351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Outside Academia**
+While I am not doing research, I enjoy exploring running and playing piano.
